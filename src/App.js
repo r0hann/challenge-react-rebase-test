@@ -1,6 +1,6 @@
 import './App.css';
-import BiologyToday from './components/biologyToday';
 import AutoReview from './components/autoReview';
+import BiologyToday from './components/biologyToday';
 
 function App() {
 	return (
